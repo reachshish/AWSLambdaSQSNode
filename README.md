@@ -1,2 +1,2 @@
 # AWSLambdaSQSNode
-AWS Lambda with SQS using Node.js and MongoDB
+AWS Lambda PoC over SQS using Node.js and MongoDB Atlas
